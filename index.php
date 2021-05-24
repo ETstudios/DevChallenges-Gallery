@@ -58,11 +58,53 @@
             <div class="col-sm-12 col-md-3"> &nbsp; </div>
         </div>
     </section>
+        
+    <section class="container gallery">
+        <div class="row">
+            <div class="col"> &nbsp; </div>
+            <div class="col-sm-12 col-lg-10">
+                <div class="row">
+                    <div class="col-sm-12 col-md-4">
+                        <img src="img/couch-1.png" alt="Grey couch with a potted plant on a white table">
+                    </div>
+                    <div class="col-sm-12 col-md-8">
+                        <img src="img/couch-2.png" alt="Black couch">
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="row">
+                        <div class="col-sm-8">
+                            <div class="row">
+                                <div class="col-sm-12">
+                                    <img src="img/tub.png" alt="White porcelain bathtub">
+                                </div>
+                            </div>
+                            <div class="row">
+                                <div class="col-sm-6">
+                                    <img src="img/bonzai.png" alt="Bonzai tree">
+                                </div>
+                                <div class="col-sm-6">
+                                    <img src="img/plant.png" alt="Plant">
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-sm-4">
+                            <img src="img/lamp.png" alt="Black lamp" class="xl">
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col"> &nbsp; </div>
+        </div>
+    </section>
     
     <div class="clear"> &nbsp; </div>
+    <div class="clear"> &nbsp; </div>
     
-    <section class="container">
-    
-    </section>
+    <footer class="row">
+        <div class="col-sm-12 center-text">
+            Created by <a href="https://github.com/ETstudios" target="_blank">FaeWilds</a> - <a href="https://devchallenges.io/" target="_blank">devChallenges.io</a>
+        </div>
+    </footer>
 </body>
 </html>

@@ -30,7 +30,7 @@
     <section class="container center-text">
         <div class="row">
             <div class="col"> &nbsp; </div>
-            <div class="col-sm-12 col-md-6 stats">
+            <div class="col-sm-12 col-lg-6 stats">
                 <p class="info">
                     <span> 100 </span>
                     <br>
@@ -65,7 +65,7 @@
     
     <footer class="row">
         <div class="col-sm-12 center-text">
-            Created by <a href="https://github.com/ETstudios" target="_blank">FaeWilds</a> - <a href="https://devchallenges.io/" target="_blank">devChallenges.io</a>
+            Created by <a href="https://github.com/ETstudios" target="_blank">Eric Thomas</a> - <a href="https://devchallenges.io/" target="_blank">devChallenges.io</a>
         </div>
     </footer>
 </body>
